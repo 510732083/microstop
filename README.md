@@ -48,8 +48,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: 上海概胜信息科技
+email: 510732083@qq.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -85,7 +85,7 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 - Report issues
 - Open pull request with improvements
 - Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
+- Reach out to me directly at <510732083@qq.com>
 
 # Donate
 
