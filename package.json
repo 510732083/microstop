@@ -9,7 +9,7 @@
   "author": "上海概胜信息科技有限公司 <510732083@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.18.6",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^4.0.1",
